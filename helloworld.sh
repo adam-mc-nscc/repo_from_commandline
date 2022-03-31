@@ -4,7 +4,7 @@
 set -e
 
 date=$(date)
-
+echo main banch
 echo -e "Hello Worlds ${date}\n"
 echo -e "Hello Worlds ${date}\n"
 echo -e "Hello Worlds ${date}\n"s
