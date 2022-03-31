@@ -5,7 +5,7 @@ set -e
 
 date=$(date)
 
-echo -e "Hello World ${date}\n"
+echo -e "Hello Worlds ${date}\n"
 echo "Saving the directory listing to a file named file_list.txt"
 
 ls -la > file_list.txt
