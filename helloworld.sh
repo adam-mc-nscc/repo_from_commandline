@@ -6,6 +6,7 @@ set -e
 date=$(date)
 echo main banch
 echo -e "Hello Worlds ${date}\n"
+echo -e "Hello Worlds ${date}\n"s
 
 echo "Saving the directory listing to a file named file_list.txt"
 
